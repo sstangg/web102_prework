@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src="./Screen Recording 2025-05-04 202511.gif](Screen%20Recording%202025-05-04%20202511.gif" title='GIF Walkthrough' width='200' alt='GIF Walkthrough' />
+![GIF Walkthrough](./Screen%20Recording%202025-05-04%20202511.gif)
 
 GIF created with FreeConvert https://www.freeconvert.com/convert/video-to-gif/download
 
